@@ -28,8 +28,8 @@ int oledcentery = ((screenH - 16) / 2) + 16;
 
 //Parameters
 String nom = "Slave0";
-const char* ssid = "Babapapa2";
-const char* password = "onlY fOr My! EYES";
+const char* ssid = "";
+const char* password = "";
 
 //Variables
 String command;

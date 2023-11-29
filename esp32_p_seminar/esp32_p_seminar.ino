@@ -11,8 +11,8 @@ SH1106Wire display(0x3c, SDA, SCL);
 
 OLEDDisplayUi ui     ( &display );
 
-const char* ssid = "Babapapa2"; // SSID des Access Points
-const char* password = "onlY fOr My! EYES"; // Passwort des Access Points
+const char* ssid = ""; // SSID des Access Points
+const char* password = ""; // Passwort des Access Points
 
 IPAddress ip(192, 168, 178, 45);
 IPAddress gateway(192, 168, 1, 254);
