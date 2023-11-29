@@ -1,0 +1,5 @@
+1. esp-wrrom-da modul auswählen
+2.libs installieren
+3. boards installieren: 
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
