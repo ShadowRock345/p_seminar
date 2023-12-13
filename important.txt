@@ -1,0 +1,24 @@
+mosquitto:
+
+user: p_seminar
+passwd: 23/24
+
+
+
+node-red:
+
+user: p_seminar
+passwd: 23/24p_seminar
+access: ip_adress_pi:1880
+
+
+
+
+in der app bei der adresseingabe:
+
+tcp://ip_adresse:1883
+
+
+
+
+PubSubClient für Esp32
